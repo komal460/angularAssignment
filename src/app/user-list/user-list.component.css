@@ -1,0 +1,14 @@
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+tr:nth-child(even){
+    background: whitesmoke;
+}
+
+td{ 
+    border-left: 1px solid gray;
+    border-right: 1px solid gray;
+    padding: 10px;
+}
